@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1517365355 source:f:\928452957\c++\code\handle class\include\basket.h
+	"Sales_item.h"
+	<set>
+
+1517370579 f:\928452957\c++\code\handle class\include\sales_item.h
+	"Item_base.h"
+	<stdexcept>
+
+1517372000 f:\928452957\c++\code\handle class\include\item_base.h
+	<string>
+
+1517372011 source:f:\928452957\c++\code\handle class\main.cpp
+	<iostream>
+	<Basket.h>
+	<Sales_item.h>
+
+1517373038 f:\928452957\c++\code\handle class\include\basket.h
+	"Sales_item.h"
+	<set>
+
+1517373527 source:f:\928452957\c++\code\handle class\src\basket.cpp
+	"Basket.h"
+	"iostream"
+
+1517365369 source:f:\928452957\c++\code\handle class\src\item_base.cpp
+	"Item_base.h"
+
+1517363764 source:f:\928452957\c++\code\handle class\src\sales_item.cpp
+	"Sales_item.h"
+
